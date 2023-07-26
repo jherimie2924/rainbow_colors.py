@@ -27,4 +27,6 @@ for color in rainbow_colors:
     g = int(g * brightness / 100)
     b = int(b * brightness / 100)
     
-    print(f"{color}: ({r}, {g}, {b})")
+    print(f"{color}: ({r}, {g}, {b})").
+
+
